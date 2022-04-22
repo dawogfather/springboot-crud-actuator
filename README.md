@@ -40,10 +40,10 @@ OR run latest image from docker hub with...
 
 #### Create TODO
 
-`curl -X POST -H "Content-Type: application/json" -d '{"title":"Keep being awesome", "description":"Complete assignments", "todoStatus":"NOT_COMPLETED"}' http://localhost:8080/api/v1/todo`
+`$ curl -X POST -H "Content-Type: application/json" -d '{"title":"Keep being awesome", "description":"Complete assignments", "todoStatus":"NOT_COMPLETED"}' http://localhost:8080/api/v1/todo`
 
 #### Update TODO
-`curl -X PUT -H "Content-Type: application/json" -d '{"title":"Go to school mate", "description":"Complete assignments", "todoStatus":"COMPLETED"}' http://localhost:8080/api/v1/todo/2`
+`$ curl -X PUT -H "Content-Type: application/json" -d '{"title":"Go to school mate", "description":"Complete assignments", "todoStatus":"COMPLETED"}' http://localhost:8080/api/v1/todo/2`
 
 #### Delete TODO
-`curl -X DELETE -H "Content-Type: application/json" http://localhost:8080/api/v1/todo/2`
+`$ curl -X DELETE -H "Content-Type: application/json" http://localhost:8080/api/v1/todo/2`
