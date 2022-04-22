@@ -17,6 +17,7 @@ build with jdk 11+
 `$ docker run --name springboot-crud-actuator -d -p 8080:8080 springboot-crud-actuator:latest`
 
 OR run latest image from docker hub with... 
+
 `$ docker run -d -p 8080:8080 dawogfather/springboot-crud-actuator:latest`
 
 
