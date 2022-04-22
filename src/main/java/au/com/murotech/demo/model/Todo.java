@@ -1,4 +1,4 @@
-package com.odhiambopaul.demo.model;
+package au.com.murotech.demo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

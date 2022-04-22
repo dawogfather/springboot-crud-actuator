@@ -1,6 +1,6 @@
-package com.odhiambopaul.demo.repositories;
+package au.com.murotech.demo.repositories;
 
-import com.odhiambopaul.demo.model.Todo;
+import au.com.murotech.demo.model.Todo;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

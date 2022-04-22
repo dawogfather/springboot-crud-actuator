@@ -1,7 +1,7 @@
-package com.odhiambopaul.demo.services;
+package au.com.murotech.demo.services;
 
-import com.odhiambopaul.demo.model.Todo;
-import com.odhiambopaul.demo.repositories.TodoRepository;
+import au.com.murotech.demo.model.Todo;
+import au.com.murotech.demo.repositories.TodoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

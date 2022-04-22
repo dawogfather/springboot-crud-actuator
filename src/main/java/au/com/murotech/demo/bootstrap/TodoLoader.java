@@ -1,8 +1,8 @@
-package com.odhiambopaul.demo.bootstrap;
+package au.com.murotech.demo.bootstrap;
 
-import com.odhiambopaul.demo.model.Todo;
-import com.odhiambopaul.demo.model.TodoStatus;
-import com.odhiambopaul.demo.repositories.TodoRepository;
+import au.com.murotech.demo.model.Todo;
+import au.com.murotech.demo.model.TodoStatus;
+import au.com.murotech.demo.repositories.TodoRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

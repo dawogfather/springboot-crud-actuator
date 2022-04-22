@@ -1,7 +1,7 @@
-package com.odhiambopaul.demo.controllers;
+package au.com.murotech.demo.controllers;
 
-import com.odhiambopaul.demo.model.Todo;
-import com.odhiambopaul.demo.services.TodoService;
+import au.com.murotech.demo.model.Todo;
+import au.com.murotech.demo.services.TodoService;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
