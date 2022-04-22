@@ -1,4 +1,4 @@
-package com.odhiambopaul.demo;
+package au.com.murotech.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
